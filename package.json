@@ -1,0 +1,8 @@
+{
+    "name": "skydate",
+    "author": "Sim Young Jae",
+    "homepage": "https://github.com/Hanul/skydate",
+    "version": "0.0.1",
+    "types": "./SkyDate.d.ts",
+    "main": "./SkyDate.js"
+}
